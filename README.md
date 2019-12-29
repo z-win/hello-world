@@ -1,2 +1,3 @@
 # hello-world
-just learning
+#just learning
+print("Hello world!")
